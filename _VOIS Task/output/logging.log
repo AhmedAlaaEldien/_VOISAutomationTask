@@ -1,0 +1,78 @@
+Dec 26, 2021 9:22:57 PM utilities.MyLogger info
+INFO: Default Suite: -->  ==============================================> Started <==============================================
+Dec 26, 2021 9:22:59 PM utilities.MyLogger info
+INFO: WebDriverFactory: --> Initializing normal Chrome driver
+Dec 26, 2021 9:23:03 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Navigating to https://www.google.com/?hl=en
+Dec 26, 2021 9:23:06 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Navigated to https://www.google.com/?hl=en successfully
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: GoogleSearch: -->  ******************************** Started ********************************
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:07 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //input[@title= 'Search']]
+Dec 26, 2021 9:23:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //input[@title= 'Search']]]
+Dec 26, 2021 9:23:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //span[contains(text(),'Next')]]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //span[contains(text(),'Next')]]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.cssSelector: .g]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.cssSelector: .g]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.xpath: //span[contains(text(),'Next')]]
+Dec 26, 2021 9:23:14 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //span[contains(text(),'Next')]]]
+Dec 26, 2021 9:23:16 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (4cafa8f2709885c563556ebe2ff1df89)] -> xpath: //span[contains(text(),'Next')]]]
+Dec 26, 2021 9:23:16 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.cssSelector: .g]
+Dec 26, 2021 9:23:16 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.cssSelector: .g]
+Dec 26, 2021 9:23:16 PM utilities.MyLogger info
+INFO: GoogleSearch: -->  ******************************** Succeeded ********************************
+Dec 26, 2021 9:23:18 PM utilities.MyLogger info
+INFO: Default Suite: -->  ==============================================> Finished <==============================================
